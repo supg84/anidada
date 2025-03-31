@@ -1,0 +1,18 @@
+body {
+  font-family: Nunito, 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 90%;
+  padding-bottom: 3em;
+  margin: 0 auto;
+  /*background-color: #fbf9ea;*/
+  -webkit-user-select: none;
+  /* Compatibilidad con WebKit */
+  user-select: none;
+  /* Para navegadores modernos */
+}
+
+table, td, th {border: 0.5px black solid}
+td, th {padding: 0.3em; }
+th {color: white; background-color: Grey; font-size: 1.3em;}
+.grisClaro  {background-color: GhostWhite;}
+.grisOscuro {background-color: LightGrey; width: 100%;}
+.azulMar    {background-color: teal; color: white; font-weight: 500;}
